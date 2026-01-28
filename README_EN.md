@@ -2,7 +2,7 @@
 
 **Reason for creation:** Frequent Bluetooth issues after installing KDE Plasma.
 
-This script completely removes existing Bluetooth packages and data, then reinstalls them. It is useful if you are experiencing problems connecting Bluetooth devices or managing them through Blueman.
+This script completely removes existing Bluetooth packages and data, then reinstalls them. It is useful if you are experiencing problems connecting Bluetooth devices or managing them or AD2P failed.
 
 ## How to use
 
